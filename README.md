@@ -1,7 +1,5 @@
-# Maltimart Ecommerce
+# Multimart Ecommerce
 
-## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
 
 ## 😎 Features
 
